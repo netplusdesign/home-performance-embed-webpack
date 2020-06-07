@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "dom",
+            "es7"
+        ],
+        "module": "CommonJS",
+        "outDir": "./dist",
+        "sourceMap": true,
+        "rootDir": "./src",
+        "types": ["handlebars", "jquery", "moment", "node"],
+        "removeComments": true,
+        "allowJs": true,
+        "target": "es5"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
