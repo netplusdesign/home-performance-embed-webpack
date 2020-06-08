@@ -15,7 +15,7 @@ There's also a [simple](https://github.com/netplusdesign/home-performance-embed-
 
 First get Node.
 
-Then close this repo and run:
+Then clone this repo and run:
 
 - `npm install`
 - `npm run build`
